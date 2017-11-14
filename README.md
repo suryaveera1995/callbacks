@@ -1,11 +1,11 @@
 ## callbacks
-`var calculateArea = function (a,  b) {`<br/>
-`var area = a * b;`<br/>
+`let calculateArea = function (a,  b) {`<br/>
+`let area = a * b;`<br/>
 `console.log("Calculated area is equal to: " + area);`<br/>
 `return area;`<br/>
 `}`<br/>
-`var calculatePerimeter = function (a, b) {`<br/>
-`var perimeter = 2 * (a + b);`<br/>
+`let calculatePerimeter = function (a, b) {`<br/>
+`let perimeter = 2 * (a + b);`<br/>
 `console.log("Calculated perimeter is equal to: " + perimeter);`<br/>
 `return perimeter;`<br/>
 `}`<br/>
